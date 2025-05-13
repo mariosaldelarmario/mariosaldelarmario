@@ -1,28 +1,20 @@
-## Bienvenidos
-
-## Sobre mi
-descripción
-
-##tecnologias
-poner icono html css javascript 
-
-herramientas
-slak zoom canva github vsc figma
+## BIENVENID@
 
 
+# SOBRE MI
+Soy una persona con ganas de aprender a programar. Me interesa adentrarme en el mundo de la programación y poder usar estas habilidades para crear herramientas digitales que sean contribuyentes en hacer el mundo un sitio mejor.✨
 
 
-<!--
-**mariosaldelarmario/mariosaldelarmario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## HABILIDADES
+* html
+* CSS
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Other Common Github Profile Sections
+* visual estudio code
+* canva
+* slack
+* github
+* git
+* figma
+
