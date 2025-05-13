@@ -1,4 +1,16 @@
-## Hi there 👋
+## Bienvenidos
+
+## Sobre mi
+descripción
+
+##tecnologias
+poner icono html css javascript 
+
+herramientas
+slak zoom canva github vsc figma
+
+
+
 
 <!--
 **mariosaldelarmario/mariosaldelarmario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
