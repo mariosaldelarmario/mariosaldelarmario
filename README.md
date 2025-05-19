@@ -10,7 +10,7 @@ Soy una persona con ganas de aprender a programar. Me interesa adentrarme en el 
 * CSS
 
 
-## Other Common Github Profile Sections
+## HERRAMIENTAS
 * visual estudio code
 * canva
 * slack
